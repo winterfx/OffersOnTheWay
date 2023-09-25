@@ -1,2 +1,2 @@
 # OffersOnTheWay
-A interviews hub
+Interviews hub
